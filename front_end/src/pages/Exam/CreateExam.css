@@ -1,0 +1,84 @@
+.container {
+    display: flex;
+    
+}
+
+.create-section {
+    border-right: 2px solid black;
+}
+
+.col-6 {
+    width: 50%;
+    padding: 0 16px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.form-question-select {
+    display: none;
+}
+
+.exam-btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.exam-btn button {
+    margin-right: 5px;
+}
+
+.btn-mix:hover {
+    color: yellow;
+    border-color: yellow;
+}
+
+.exam-header {
+    display: flex;
+    border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.exam-warning {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.school {
+    border-right: 2px solid black;
+}
+
+.number {
+    display: flex;
+    justify-content: space-between;
+}
+
+.question span {
+    font-weight: 400;
+}
+
+.answer-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.answer {
+    width: 25%;
+}
+
+.exam-answers {
+    display: none;
+}
